@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: StellarMint CI/CD
 
 on:
   push:
