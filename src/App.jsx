@@ -1,3 +1,5 @@
+// StellarMint — Token Launchpad on Stellar Testnet
+
 import { useEffect } from 'react'
 import { useWallet } from './hooks/useWallet'
 import { useToken } from './hooks/useToken'
