@@ -1,3 +1,5 @@
+// useToken — handles token creation, minting and caching
+
 import { useState, useCallback } from 'react'
 import { Horizon } from '@stellar/stellar-sdk'
 import { setCache, getCache, clearCache } from '../utils/cache'
