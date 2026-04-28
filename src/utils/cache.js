@@ -1,3 +1,5 @@
+// cache.js — localStorage caching with 30s TTL
+
 const CACHE_TTL = 30000
 
 export function setCache(key, data) {
